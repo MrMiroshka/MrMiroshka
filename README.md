@@ -26,7 +26,7 @@ Java Developer
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> 
 </picture> 
 </a> 
-<a href="https://instagram.com/mr_miroshka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_miroshka" height="32" width="32" /></a>
+<a href="https://instagram.com/mr_miroshka" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_miroshka" height="32" width="32" /></a>
 </p>
 
 ### Badges
