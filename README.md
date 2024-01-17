@@ -1,6 +1,6 @@
-Привет ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Меня зовут Игорь
+Привет ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) меня зовут Игорь
 =============================================================================================================================
-![](https://disk.yandex.ru/i/-AVQBKavCn3uvw)
+![Image alt](https://disk.yandex.ru/i/-AVQBKavCn3uvw)
 Java Developer
 --------------
 
