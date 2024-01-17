@@ -28,7 +28,7 @@ Java Developer
 </picture> 
 </a> 
 <a href="https://instagram.com/mr_miroshka" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_miroshka" height="32" width="32" /></a>
-<a href="https://t.me/MrMirosha"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://t.me/MrMiroshka"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 
 ### Badges
